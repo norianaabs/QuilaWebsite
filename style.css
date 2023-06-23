@@ -1,0 +1,83 @@
+/* --- --- --- GENERAL --- --- --- */
+
+* {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+}
+
+body {
+    margin: 0;
+}
+
+
+/* --- --- --- ENCABEZADO --- --- --- */
+
+/* --- Cinta del encabezado --- */
+header{
+    background-color:#D1F7E3 ;
+    width: 100%;
+    padding: 0;
+}
+
+/* --- Texto del encabezado --- */
+header p {
+    text-align: center;
+    margin-top:0;
+    color: #6E7F8D;
+    font-size: 13px;
+    font-weight: 400;
+    padding: 10px 0;
+}
+
+/* --- Logo --- */
+.nav1 img { 
+    height: 40px;
+    width: 80px;
+    margin: 15px 40px;
+}
+
+/* --- Search Bar Container --- */
+.searchbar form {
+    margin-top: -50px;
+    display: flex;
+    justify-content: center;
+    
+    
+}
+
+.navbar{
+    margin-top: 50px;
+    display: flex;
+    justify-content:space-evenly;
+    
+}
+
+a:link {
+    color: #047F37;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #333333;
+}
+
+a:focus {
+    color: #333333;
+}
+
+a:hover {
+    color: #047F37;
+}
+
+h1 {
+    color: #173906;
+    text-align: center;
+    font-size: 76px;
+    font-family: 'Newsreader', serif;
+    line-height: 120%;
+    letter-spacing: -1.52px;
+}
+
+     
+
+
